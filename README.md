@@ -1,5 +1,7 @@
 # Exercicios_algorimtos_programacao
 
+00 - Operações matemáticas e lógica
+
 01 - Laço de Repetição (fácil)
 Faça um programa que receba a idade de 15 pessoas e que calcule e mostre:
 a)	A quantidade de pessoas em cada faixa etária;
