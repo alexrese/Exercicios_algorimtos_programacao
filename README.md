@@ -1,7 +1,8 @@
 # Exercicios_algorimtos_programacao
 
 00 - Operações matemáticas e lógica (fácil)
-
+-------------------------------------------------------------------------------------------------------------------------------------
+00a -  Faça um algoritmo que solicite ao usuário dois valores e exiba, ao final, a media aritmética (fácil).
 -------------------------------------------------------------------------------------------------------------------------------------
 01 - Laço de Repetição (fácil)
 Faça um programa que receba a idade de 15 pessoas e que calcule e mostre:
