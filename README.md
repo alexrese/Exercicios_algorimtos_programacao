@@ -4,6 +4,12 @@
 -------------------------------------------------------------------------------------------------------------------------------------
 00a -  Faça um algoritmo que solicite ao usuário dois valores e exiba, ao final, a media aritmética (fácil).
 -------------------------------------------------------------------------------------------------------------------------------------
+00b - Faça um algoritmo que leia um valor inteiro e imprima seu antecessor e seu sucessor 
+
+-------------------------------------------------------------------------------------------------------------------------------------
+00c - Um indivíduo, em um sábado a tarde, resolveu ir ao shopping comprar uma camisa para um jantar de negócios que teria na semana seguinte. Encontrou o que procurava em uma loja com 10% de desconto. Faça um algoritmo que solicite ao usuário o valor real da camisa e informe, ao final, o valor a ser pago com os 10% de desconto.
+
+-------------------------------------------------------------------------------------------------------------------------------------
 01 - Laço de Repetição (fácil)
 Faça um programa que receba a idade de 15 pessoas e que calcule e mostre:
 a)	A quantidade de pessoas em cada faixa etária;
